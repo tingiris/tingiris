@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Steve, and I'm glad your here. 
+### Hi there, 👋 I'm Steve, and I'm glad your here. 
 
 Honestly, I have no idea you're here right now, so I'm not glad. I mean, I might be glad at this very moment, but it's not because you're here. Don't get me wrong; I'm not unhappy you're here; I just don't know about it. So, how could I be glad if I'm oblivious? 
 
