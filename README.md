@@ -2,7 +2,7 @@
 
 I’m a software architect turned entrepreneur and author. I founded [Dabble Lab](https://dabblelab.com). It’s a multi-national collective of technology fanatics. We team up to help our clients automate things that humans shouldn’t have to do. 
 
-I also write books and create technical tutorials. In 2020 I wrote the book [Exploring GPT-3](https://www.amazon.com/dp/1800563191). It’s done well and even became an Amazon bestseller. I’m proud of that because I grew up with a learning disability and couldn’t read proficiently until I was an adult. So, I never imagined I’d be an author.
+I also write books and create technical tutorials. In 2020 I wrote the book [Exploring GPT-3](https://www.amazon.com/dp/1800563191). It has done well and even became an Amazon bestseller. I’m proud of that because I grew up with a learning disability and couldn’t read proficiently until I was an adult. So, I never imagined I’d be an author.
 
 I love learning and I learn best by doing. I also learn fastest when I consider how to teach what I’m learning to someone else. That’s mostly why [I create tutorials](https://youtube.com/dabblelab). I’ve created hundreds of them over the years. Some I’ve published but most I haven’t
 
