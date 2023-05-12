@@ -4,7 +4,7 @@ I’m a software architect turned entrepreneur and author. I founded [Dabble Lab
 
 I also write books and create technical tutorials. In 2020 I wrote the book [Exploring GPT-3](https://www.amazon.com/dp/1800563191). It has done well and even became an Amazon bestseller. I’m proud of that because I grew up with a learning disability and couldn’t read proficiently until I was an adult. So, I never imagined I’d be an author.
 
-I love learning and I learn best by doing. I also learn fastest when I consider how to teach what I’m learning to someone else. That’s mostly why [I create tutorials](https://youtube.com/dabblelab). I’ve created hundreds of them over the years. Some I’ve published but most I haven’t
+I love learning and I learn best by doing. I also learn fastest when I consider how to teach what I’m learning to someone else. That’s mostly why [I create tutorials](https://youtube.com/dabblelab). I’ve created hundreds of them over the years.
 
 I’ve had 27 different jobs in my life. Most I hated or wasn’t very good at. But I learned something from all of them. A few I really loved. My favorite jobs were:
 
